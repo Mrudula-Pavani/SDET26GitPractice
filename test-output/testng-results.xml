@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-12-10T17:48:33 IST" name="Suite" finished-at="2021-12-10T17:48:33 IST" duration-ms="64">
+  <suite started-at="2021-12-13T14:47:30 IST" name="Suite" finished-at="2021-12-13T14:47:30 IST" duration-ms="40">
     <groups>
     </groups>
-    <test started-at="2021-12-10T17:48:33 IST" name="Test" finished-at="2021-12-10T17:48:33 IST" duration-ms="64">
-      <class name="practice.Demo2Test">
-        <test-method signature="demo2Test()[pri:0, instance:practice.Demo2Test@59af0466]" started-at="2021-12-10T17:48:33 IST" name="demo2Test" finished-at="2021-12-10T17:48:33 IST" duration-ms="12" status="PASS">
+    <test started-at="2021-12-13T14:47:30 IST" name="Test" finished-at="2021-12-13T14:47:30 IST" duration-ms="40">
+      <class name="samplePractice.SampleReadTest">
+        <test-method signature="sampleReadTest()[pri:0, instance:samplePractice.SampleReadTest@59af0466]" started-at="2021-12-13T14:47:30 IST" name="sampleReadTest" finished-at="2021-12-13T14:47:30 IST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- demo2Test -->
-      </class> <!-- practice.Demo2Test -->
+        </test-method> <!-- sampleReadTest -->
+      </class> <!-- samplePractice.SampleReadTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

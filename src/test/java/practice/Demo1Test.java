@@ -7,6 +7,7 @@ public class Demo1Test {
 	public void demo1Test() {
 		System.out.println("Demo1 executed");
 		System.out.println("Demo1 cool");
+		System.out.println("new change in the project, try to push ");
 	}
 
 }
